@@ -17,16 +17,22 @@ Documenting my Data Structures &amp; Algorithms journey in Java. From basics to 
 ---
 
 ## 📁 Folder Structure
-\```
-30-days-of-DSA
-├── Arrays
-├── Strings
-├── Recursion
-├── Sorting
-└── LeetCode
-\```
-
----
+```
+30-days-of-DSA/
+├── Day0-Foundations/
+│   ├── Variables/
+│   ├── Datatypes/
+│   ├── Operators/
+│   ├── ConditionalStatements/
+│   ├── Loops/
+│   ├── NestedLoops/
+│   └── Functions/
+├── Day1-Arrays/
+├── Strings/
+├── Recursion/
+├── Sorting/
+└── LeetCode/
+```
 
 ## 🔗 Follow the journey
 Instagram: [@deepaa_logs](https://www.instagram.com/deepaa_logs/)
